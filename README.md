@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Sara! <br/>Software Designer, Designer, and YouTuber</h1>
 
-<!--
-**ll-SaraRoss-ll/ll-SaraRoss-ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
+- <b>Full Stack Web App (React, NodeJS, Express, and MongoDb Components)</b>
 
-Here are some ideas to get you started:
+<h2>📺 Popular YouTube Videos</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Investing in Tomorrow's Talent: An Innovative Approach to Employment](https://www.youtube.com/watch?v=pt3Qlg3YXzE)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="SaraRoss | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="SaraRoss | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SaraRoss | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[youtube]: https://youtube.com/@saradesigns-tv9kk?si=ZGvPE9Zgt7G4WOMn
+[instagram]: https://www.instagram.com/sara.designs_sd?igsh=YTcyYzlmdXB0aHd4
+[linkedin]: http://www.linkedin.com/in/sara-ross-342263313
