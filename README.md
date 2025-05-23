@@ -15,4 +15,4 @@
 
 [youtube]: https://youtube.com/@saradesigns-tv9kk?si=ZGvPE9Zgt7G4WOMn
 [instagram]: https://www.instagram.com/sara.designs_sd?igsh=YTcyYzlmdXB0aHd4
-[linkedin]: http://www.linkedin.com/in/sara-ross-342263313
+[linkedin]: www.linkedin.com/in/sara-ross-342263313
