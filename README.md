@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sara! <br/>Software Designer, Designer, and YouTuber</h1>
+<h1>Hi, I'm Sara! <br/>Software Designer, Developer, and YouTuber</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Full Stack Web App (React, NodeJS, Express, and MongoDb Components)</b>
