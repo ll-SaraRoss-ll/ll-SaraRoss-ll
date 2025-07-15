@@ -14,5 +14,6 @@
 [<img align="left" alt="SaraRoss | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [youtube]: https://youtube.com/@saradesigns-tv9kk?si=ZGvPE9Zgt7G4WOMn
-[instagram]: https://www.instagram.com/sara.designs_sd?igsh=YTcyYzlmdXB0aHd4
 [linkedin]: www.linkedin.com/in/sara-ross-342263313
+[instagram]: https://www.instagram.com/sara.designs_sd?igsh=YTcyYzlmdXB0aHd4
+
